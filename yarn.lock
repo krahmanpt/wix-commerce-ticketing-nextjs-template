@@ -843,13 +843,13 @@ __metadata:
   linkType: hard
 
 "@wix/ecom@npm:^1.0.78":
-  version: 1.0.184
-  resolution: "@wix/ecom@npm:1.0.184"
+  version: 1.0.221
+  resolution: "@wix/ecom@npm:1.0.221"
   dependencies:
     "@wix/metro-runtime": ^1.0.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.0
     "@wix/sdk-types": ^1.0.0
-  checksum: 33c521ebe277379ac5d8566ff5b2dbd813763f546e6fc4c071b82c2edd453236904d278a55f4d33ac567aa37183987efd526388bf3c1765c003f4fc1a564e055
+  checksum: 2ee1b62dfa1611ffd093c994d8ee606091ec35708044b0c6f40087856a5b4446441f4afb148b1c87fda95b31b9790adca1cb5e9739895e843dc2147cf874bae4
   languageName: node
   linkType: hard
 
